@@ -1,24 +1,23 @@
- vCard - Personal Portfolio
+ NENAVATH NAGENDRA NAIK Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Nadendra Naik
+Full Stack Developer
 
 Show Contacts
 
 Email
-richard@example.com
+nnagendranaik2001@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 9000723703
 
 Birthday
-June 23, 1982
+ 08-Aug-2001
 
 Location
-Sacramento, California, USA
+Hyderabad, INDIA
 
 # navbar
 
@@ -32,9 +31,15 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I have 1 years of Experience in Software Selenium and automation testing. I have good understanding of Software development cycle, Agile methodology and software testing life cycles along with the strong knowledge and hand on experience in Automation Testing using Selenium web driver. Extensive experience with automation tool QTP and TestNG Experience with Defect Management Tool Jira/HP ALM(QC) tools - Quality Center and TFS (Version Control System). Excellent in writing test cases and scenarios.
+
+Understanding of fundamental design principles for building a scalable application. Knowledge of concurrency patterns. Able to contribute to a. Highly Desirable: Masters degree in Computer Science or relevant coursework.
 
 My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+The best part of my school is its auditorium where all the school events and competitions take place. Our school auditorium is one of the best auditoriums in the town with a great sound and light facility. It is fully air-conditioned with lots of seats. Every year, my school organises an annual cultural festival which lasts for two days. Many cultural events take place within these two days like singing, dancing, debate competition, etc. I love to participate in a poem writing competition every year, and many times I have won prizes as well. Every year, the toppers of our school get awarded on this annual cultural day and we all students love to participate in various events of the annual cultural day.
+
+We also have school assemblies in our Auditorium. Sometimes the students from other schools come and participate in the different competitions organised in our schools. These events are called inter-school competitions. These events are very good as we get to learn new things from other students and make many new friends
 
 
 ## service
@@ -62,21 +67,19 @@ I make high-quality photos of any category at a professional level.
 
 Testimonials
 
-alt = Daniel lewis
-Daniel lewis
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Harikrishna
+Hari was hired to create a corporate identity. We were very pleased with the work done. He has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
 alt = Jessica miller
 Jessica miller
 Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
 
-alt = Emily evans
-Emily evans
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Satvika
+Intelligence Developer with over 1 years of experience, I turn raw data into actionable insights that drive business growth and efficiency. My expertise includes data analysis, process improvement, and automation, which have led to significant cost savings and performance improvements.
 
-alt = Henry william
-Henry william
-Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+alt = Divakar
+A post-graduate in statistics with a passion for data science, armed with proficiency in Python, SQL, EDA and PowerBI. Expertise lies in deciphering intricate data sets to extract valuable insights, backed by a robust foundation in data analysis methodologies. Ready to tackle complex challenges and drive impactful decisions through data-driven solutions
+
 
 
 ## clients
@@ -92,40 +95,64 @@ alt = client logo
 Resume
 
 Education
+Rayalaseema University College of Engineering
+2020 — 2024
+I did my graduation in Bachelor of Technology from Rayalaseema University College of Engineering, with the specialization of computer science and engineering. Relevant Coursework Operating Systems Architecture, Usability in Website and Software Design, HTML, CSS & Js Programming I & II, Web Page Development, Relational Database Design, SQL, MySQL & MongoDB Data Engineering, Advanced Software Programming.
 
-University school of the arts
-2007 — 2008
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
 
-New york academy of art
-2006 — 2007
-Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+APSWER Res.Sch/Jr College
+2017 — 2019
+Maths, Physics, Chemistry ( MPC ) provides a solid foundation in core scientific principles, making it easier to pursue higher education in engineering, technology, and other science-related fields. A strong foundation for students aiming for careers in engineering, technology, and related fields. Below is an overview of each subject’s importance within the MPC stream
 
-High school of art and design
-2002 — 2004
-Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+MJPAP BC WR School
+2016 — 2017
+School Life is the best time of our life as we make new friends, learn new things and build our career there. School time is the only time which we enjoy most, and when we enter college, we always miss our school life. School life teaches us lots of new things and prepares us to face all the challenges of life. I love my school life and really enjoy it. I have lots of friends, and all my teachers love me. I love my school and enjoy going there every day to meet my friends and learn new things. Apart from learning great things in school, you make new friends, play different sports and create memories for the rest of your life. The students also learn many life skills like teamwork, good manners, etc., and understand what they want to become in their life.
 
 Experience
+Python | Automation Testing
+2023 — 2024
+have 1 years of Experience in Software Selenium and automation testing. I have good understanding of Software development cycle, Agile methodology and software testing life cycles along with the strong knowledge and hand on experience in Automation Testing using Selenium web driver.
 
-Creative director
-2015 — Present
-Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+Extensive experience with automation tool POM and API. Experience with Defect Management Tool Jira/HP ALM(QC) tools - Quality Center and TFS (Version Control System).Excellent in writing test cases and scenarios.
 
-Art director
-2013 — 2015
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Having Skills at Software field as Test Engineer in QA activities such as Automation, Manual, and Software testing life cycle. Involved in the Preparation of Test Scenarios, Test Cases, and Defect Reporting. Involved in Data Driven Testing, Parametrized Testing, API Testing, Functional Testing, and Regression testing.
 
-Web designer
-2010 — 2013
-Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+Experience in which includes preparing Test cases, Test Execution, Evaluating Test Results & Reporting. Well versed with Handling Elements in Selenium WebDriver. Writing Test cases using Element locators, WebDriver methods, Python programming features, and Testing Annotations.
+
+Executing Selenium Test Cases and reporting defects. Designed and implemented different automation frameworks Data Driven frameworks and Hybrid frameworks.
+
+Executing Test Cases to test the application functionality against the requirements manually. Defect Reporting and Tracking using Automation Tools like JIRA.
+
+Web design | Web development
+2022 — 2023
+Develop high-quality, tested code for responsive websites, including mobile design. Create websites and interfaces, integrating data from databases & services. Stay up-to-date with industry trends, emerging technologies in web development.
+
+Writing and testing code: I will be responsible for writing, testing, and debugging code for web applications using programming languages such as HTML, CSS, JavaScript, and other web development technologies.
+
+Troubleshooting issues: I will be responsible for identifying and resolving issues in web applications, including bugs, compatibility issues, and performance problems.
+
+Updating and maintaining web content: I will be responsible for updating and maintaining website content, including text, images, and multimedia content.
+
+Implementing website design: I will be responsible for implementing website design and layout, including responsive design for mobile devices and other screen sizes.
+
+
+Web Applications
+2021 — 2022
+Develop and maintain web applications using the Front End(Angular) technologies. Develop user-facing features using Angular framework. Troubleshoot and debug applications to optimize performance. Code optimization for maximum performance and scalability.
+
+Monitor application performance and troubleshoot issues related to scalability, reliability, and security. Stay updated with the latest trends, technologies, and best practices in web development. Work closely with project managers, tech-leads and stakeholders to understand requirements and deliver timely solutions.
+
+To create and implement usable designs based on trends and user experience into intuitive web and mobile application. Translate ideas into a storyboard to create visual designs. Collaborate with technology, content and digital marketing teams
 
 My skills
-
-Web design
+Automation Testing
 80%
-Graphic design
-70%
-Branding
+Web design | Development
+76%
+Computer | Mobile Technologies
+82%
+HTML | CSS | Js
 90%
 WordPress
 50%
